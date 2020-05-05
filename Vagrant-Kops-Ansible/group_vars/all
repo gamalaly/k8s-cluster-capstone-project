@@ -16,7 +16,7 @@ kops_download_path: "https://github.com/kubernetes/kops/releases/download/1.12.1
 
 
 #Cluster Config
-cluster_name: k8s.demerdashi.com
+cluster_name: k8s.gamalaly.com
 
 state_store: s3://xxxxxxxxxxxx
 
