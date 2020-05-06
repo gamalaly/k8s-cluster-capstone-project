@@ -1,4 +1,3 @@
-
 FROM nginx
 
 ## Step 1:
